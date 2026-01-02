@@ -1,0 +1,8 @@
+{
+  "name": "Crystal Inventory",
+  "short_name": "Crystals",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#7b5cff",
+  "background_color": "#ffffff"
+}
